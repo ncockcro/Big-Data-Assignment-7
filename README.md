@@ -1,1 +1,2 @@
 # Big-Data-Assignment-7
+This assignment was intended to become familiar with a machine learning technique known as K-Means Clustering. In the program, I take in a file with many different fields and tests for checking if someone has cancer. I drop the first two fields in the program as they are not data, and then pass the rest to my K-Means Cluster model to use machine learning to learn and predict whether a patients diagnosis is malignent or benign.
